@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main
 https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
 ```
 
-- vmess_configs.txt:
+- vmessfigs.txt:
 
 ![QR](https://quickchart.io/qr?text=https%3A%2F%2Fraw.githubusercontent.com%2Febrasha%2Ffree-v2ray-public-list%2Frefs%2Fheads%2Fmain%2Fvmess_configs.txt&size=190)
 
